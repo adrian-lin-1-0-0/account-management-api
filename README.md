@@ -55,5 +55,5 @@ docker pull adrianlin0/account-management-api:latest
 2. Run the Docker container
 
 ```sh
-docker run -p 8000:8000 adrianlin0/account-management-api:0.0.1
+docker run -p 8000:8000 adrianlin0/account-management-api
 ```
